@@ -1,2 +1,2 @@
-# shopping-web
-电商网站
+# Library Manager
+大学生自主图书系统
